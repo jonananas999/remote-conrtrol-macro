@@ -3,7 +3,7 @@ My Joystick macro PCB design and future development
 
 New to this game so give me suggestments for imporvement thank you and have fun reading.
 
-Hey there! I'm Jonas, a 17-year old high school student from Germany, currently preparing for my Abitur next year.
+Hey there! I'm Jonas, a 17 year old high school student from Germany, currently preparing for my Abitur next year.
 
 RC macro Features:
 
@@ -27,4 +27,5 @@ Joystick COM-09032 x1
 
 Switch x6
 
+I will build my own Case with a friends 3D printer since i dont know how wide the switches and the jostick will be.
 This is my first custom PCB project I learned KiCad schematic/PCB layout, ESP32 programming, I2C OLED integration. I tried my best for the design but I'm open to feedback for my next iteration.
