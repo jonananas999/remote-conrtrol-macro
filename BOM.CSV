@@ -1,6 +1,6 @@
-Quantity,Item,Description,Source,Unit Price (€),Qty per Set,Total (€)
-6,JKDK XCJZ Pink & Grey Butterfly Switches,MX-style mechanical switches (günstige Alternative zu Cherry MX),AliExpress,7.39,1 Set (≥6 Stück),7.39
-1,0.96" IPS/OLED Display,0.96" Displaymodul mit I2C/SPI-Anschluss,AliExpress,2.09,1,2.09
-1,SparkFun COM-09032 Thumb Joystick,2-achsiger Analog-Joystick mit Taster,SparkFun,6.00,1,6.00
-1,Custom PCB,Eigene Leiterplatte für das RC Macropad,,7.00,1,7.00
-1,ESP32 DevBoard,ESP32-Entwicklungsboard als Hauptcontroller,"z.B. AZ-Delivery / AliExpress",8.50,1,8.50
+Quantity,Item,Description,Source,Link,Unit Price (€),Qty per Set,Total (€)
+6,Butterfly-Style Switches,MX-Style mechanical switches (günstige Alternative zu Cherry MX),AliExpress,https://de.aliexpress.com/item/1005006814061416.html?spm=a2g0o.productlist.main.58.17d47773Q1gN07,7.39,1 Set (≥6 Stück),7.39
+1,0.96" IPS/OLED Display,0.96" Displaymodul mit I2C/SPI-Anschluss,AliExpress,https://www.aliexpress.com/,2.09,1,2.09
+1,SparkFun COM-09032 Thumb Joystick,2-achsiger Analog-Joystick mit Taster,SparkFun,https://www.sparkfun.com/products/9032,6.00,1,6.00
+1,Custom PCB,custom jlcpcb,GitHub,https://github.com/jonananas999/remote-conrtrol-macro,7.00,1,7.00
+1,ESP32 DevBoard,already bought
