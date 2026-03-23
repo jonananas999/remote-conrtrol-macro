@@ -1,5 +1,6 @@
-ESP32 DevKit,1
-OLED 0.91",1
-Joystick,1
-Buttons,6
-LEDs RGB,6
+Quantity,Item,Description,Source,Unit Price (€),Qty per Set,Total (€)
+6,JKDK XCJZ Pink & Grey Butterfly Switches,MX-style mechanical switches (günstige Alternative zu Cherry MX),AliExpress,7.39,1 Set (≥6 Stück),7.39
+1,0.96" IPS/OLED Display,0.96" Displaymodul mit I2C/SPI-Anschluss,AliExpress,2.09,1,2.09
+1,SparkFun COM-09032 Thumb Joystick,2-achsiger Analog-Joystick mit Taster,SparkFun,6.00,1,6.00
+1,Custom PCB,Eigene Leiterplatte für das RC Macropad,,7.00,1,7.00
+1,ESP32 DevBoard,ESP32-Entwicklungsboard als Hauptcontroller,"z.B. AZ-Delivery / AliExpress",8.50,1,8.50
