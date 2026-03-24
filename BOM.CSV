@@ -5,3 +5,4 @@ Quantity,Item,Description,Source,Link,Unit Price (€),Qty per Set,Total (€)
 1,0.91" OLED Display (SSD1306 I2C),128x32 OLED Display für ESP32/Arduino,AliExpress,https://de.aliexpress.com/item/1005006365884520.html,1.65,1,1.65
 1,Custom PCB,custom jlcpcb
 1,ESP32 DevBoard,already bought 
+6,SK6812 MINI-E LEDs,Adressierbare digitale RGB-LEDs,AliExpress,https://de.aliexpress.com/item/1005008308801366.html,0.9,20,1.77
