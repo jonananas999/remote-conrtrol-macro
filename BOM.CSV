@@ -1,6 +1,7 @@
 Quantity,Item,Description,Source,Link,Unit Price (€),Qty per Set,Total (€)
-6,Butterfly-Style Switches,MX-Style mechanical switches (günstige Alternative zu Cherry MX),AliExpress,https://de.aliexpress.com/item/1005006814061416.html?spm=a2g0o.productlist.main.58.17d47773Q1gN07,7.39,1 Set (≥6 Stück),7.39
-1,0.96" IPS/OLED Display,0.96" Displaymodul mit I2C/SPI-Anschluss,AliExpress,https://www.aliexpress.com/,2.09,1,2.09
+6,Tactile Push Button (6x6mm),Micro-Taster für DIY PCB (kein MX Switch),AliExpress,https://de.aliexpress.com/item/1005006998132061.html,2.79,10,2.79
+1,Thumb Joystick Modul,2-achsiger Analog-Joystick mit Taster,AliExpress,https://de.aliexpress.com/item/1005009942094855.html,1.59,1,1.59
 1,SparkFun COM-09032 Thumb Joystick,2-achsiger Analog-Joystick mit Taster,SparkFun,https://www.sparkfun.com/products/9032,6.00,1,6.00
-1,Custom PCB,custom jlcpcb,GitHub,https://github.com/jonananas999/remote-conrtrol-macro,7.00,1,7.00
-1,ESP32 DevBoard,already bought
+1,0.91" OLED Display (SSD1306 I2C),128x32 OLED Display für ESP32/Arduino,AliExpress,https://de.aliexpress.com/item/1005006365884520.html,1.65,1,1.65
+1,Custom PCB,custom jlcpcb
+1,ESP32 DevBoard,already bought 
