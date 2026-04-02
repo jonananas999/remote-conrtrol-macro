@@ -1,33 +1,58 @@
-RC macro
-My Joystick macro PCB design and future development
+# RC Macro Controller
 
-New to this game so give me suggestments for imporvement thank you and have fun reading.
+## Description
 
-Hey there! I'm Jonas, a 17 year old high school student from Germany, currently preparing for my Abitur next year.
+This project is a custom macro controller with a joystick, based on an ESP32.
+It is designed as a mix between a macro pad and an RC controller. The current version focuses on the hardware (PCB, inputs, and display), while wireless functionality is planned for a future version.
 
-RC macro Features:
+You can use the controller by connecting it via USB. The buttons and joystick can be programmed to send inputs, for example as a macro pad or for testing control inputs. In the future, it is intended to control an RC car wirelessly.
 
-ESP32 microcontroller
+I made this project to learn PCB design and gain more experience with microcontrollers. I also wanted to build something more interactive than a basic macro pad, which is why I added a joystick and an OLED display.
 
-0.91" OLED display just for fun
+---
 
-custom PCB (my first ever custom PCB design)
+## Pictures
 
-Wireless System:
+### 3D Model
 
-will be my future project if everything works thats also the cause of the esp32 beacause it has a included antenna.
+![alt text](image-url)
 
-Thats the stuff that will be used:
+### PCB
 
-ESP32-DevKit-V1 x1
+![alt text](image-url)
 
-OLED 0.91" I2C x1
+### Schematic
 
-Joystick COM-09032 x1
+![alt text](image-url)
 
-Switch x6
+## Case
 
-SK6812MINI-E x6
+![alt text](image-url)
 
+---
 
-This is my first custom PCB project I learned KiCad schematic/PCB layout, ESP32 programming, I2C OLED integration. I tried my best for the design but I'm open to feedback for my next iteration.
+## Bill of Materials 
+
+| Item                             | Description                         | Source     | Link                                                 | Quantity | Unit Price (€) | Total (€) |
+| -------------------------------- | ----------------------------------- | ---------- | ---------------------------------------------------- | -------- | -------------- | --------- |
+| Tactile Push Button (6x6mm)      | Small tactile buttons for PCB input | AliExpress | https://de.aliexpress.com/item/1005006998132061.html | 6        | 2.79 (per 10)  | 2.79      |
+| Thumb Joystick Module            | 2-axis analog joystick with button  | AliExpress | https://de.aliexpress.com/item/1005009942094855.html | 1        | 1.59           | 1.59      |
+| OLED Display 0.91" (SSD1306 I2C) | 128x32 OLED display                 | AliExpress | https://de.aliexpress.com/item/1005006365884520.html | 1        | 1.65           | 1.65      |
+| Custom PCB                       | Self-designed PCB                   | JLCPCB     | —                                                    | 1        | —              | —         |
+| ESP32 Dev Board                  | Microcontroller (already owned)     | —          | —                                                    | 1        | —              | —         |
+| SK6812 MINI-E LEDs               | Addressable RGB LEDs                | AliExpress | https://de.aliexpress.com/item/1005008308801366.html | 6        | 0.90 (per 20)  | 1.77      |
+
+---
+
+## Total Cost
+
+Approx. 23€ (excluding ESP32 and PCB)
+
+---
+
+## Notes
+
+This is my first PCB project, so it’s probably not perfect.
+I learned how to design schematics and PCBs in KiCad, and how to work with the ESP32 and I2C devices.
+
+Feedback and suggestions for improvement are appreciated.
