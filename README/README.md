@@ -29,5 +29,5 @@ Switch x6
 
 SK6812MINI-E x6
 
-I will build my own Case with a friends 3D printer since i dont know how wide the switches and the jostick will be.
+
 This is my first custom PCB project I learned KiCad schematic/PCB layout, ESP32 programming, I2C OLED integration. I tried my best for the design but I'm open to feedback for my next iteration.
