@@ -44,7 +44,7 @@ I made this project to learn PCB design and gain more experience with microcontr
 
 ## Total Cost
 
-Approx. 23€ (excluding ESP32 and PCB)
+Approx. 17€ (excluding ESP32 and PCB)
 
 ---
 
