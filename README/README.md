@@ -3,13 +3,14 @@
 ## Description
 
 This project is a custom macro controller with a joystick, based on an ESP32.
-It is designed as a mix between a macro pad and an RC controller. The current version focuses on the hardware (PCB, inputs, and display), while wireless functionality is planned for a future version.
+The current version focuses on the hardware (PCB, inputs, and display), while wireless functionality is planned for a future version.
 
-You can use the controller by connecting it via USB. The buttons and joystick can be programmed to send inputs, for example as a macro pad or for testing control inputs. In the future, it is intended to control an RC car wirelessly.
+The buttons and joystick can be programmed to send inputs, for example as a macro pad or for testing control inputs.
 
 I made this project to learn PCB design and gain more experience with microcontrollers. I also wanted to build something more interactive than a basic macro pad, which is why I added a joystick and an OLED display.
 
 ---
+
 
 ## Pictures
 
@@ -51,6 +52,6 @@ Approx. 17€ (excluding ESP32 and PCB)
 ## Notes
 
 This is my first PCB project, so it’s probably not perfect.
-I learned how to design schematics and PCBs in KiCad, and how to work with the ESP32 and I2C devices.
+I learned how to design schematics and PCBs in KiCad, and how to work with the ESP32.
 
 Feedback and suggestions for improvement are appreciated.
