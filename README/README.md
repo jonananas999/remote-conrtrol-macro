@@ -35,7 +35,7 @@ I made this project to learn PCB design and gain more experience with microcontr
 | Item                             | Description                         | Source     | Link                                                 | Quantity | Unit Price (€) | Total (€) |
 | -------------------------------- | ----------------------------------- | ---------- | ---------------------------------------------------- | -------- | -------------- | --------- |
 | Tactile Push Button (6x6mm)      | Small tactile buttons for PCB input | AliExpress | https://de.aliexpress.com/item/1005006998132061.html | 6        | 2.79 (per 10)  | 2.79      |
-| Thumb Joystick Module            | 2-axis analog joystick with button  | AliExpress | https://de.aliexpress.com/item/1005009942094855.html | 1        | 1.59           | 1.59      |
+| Thumb Joystick Module            | 2-axis analog joystick with button  | sparkfun | https://www.digikey.de/de/products/detail/sparkfun-electronics/09032/6823623?gclsrc=aw.ds&gad_source=1&gad_campaignid=20657220872 | 1        | 4.52           | 4.52      |
 | OLED Display 0.91" (SSD1306 I2C) | 128x32 OLED display                 | AliExpress | https://de.aliexpress.com/item/1005006365884520.html | 1        | 1.65           | 1.65      |
 | Custom PCB                       | Self-designed PCB                   | JLCPCB     | —                                                    | 1        | —              | —         |
 | ESP32 Dev Board                  | Microcontroller (already owned)     | —          | —                                                    | 1        | —              | —         |
