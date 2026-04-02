@@ -14,20 +14,18 @@ I made this project to learn PCB design and gain more experience with microcontr
 ## Pictures
 
 ### 3D Model
+<img width="1969" height="1088" alt="Macro3Dview" src="https://github.com/user-attachments/assets/1a1f6ba6-d6d5-4388-bdfc-95301f5d8249" />
 
-![alt text](image-url)
 
 ### PCB
-
-![alt text](image-url)
+<img width="1817" height="846" alt="PCB" src="https://github.com/user-attachments/assets/6a353b41-9ec7-4b2e-a59e-847e765d91da" />
 
 ### Schematic
-
-![alt text](image-url)
+<img width="1590" height="1090" alt="MacroSchematic" src="https://github.com/user-attachments/assets/92d4080a-77fb-4b86-af10-0800f0c7437b" />
 
 ## Case
+<img width="479" height="343" alt="joystick case" src="https://github.com/user-attachments/assets/8d304416-fe95-4f21-8f73-929856b8bb2b" />
 
-![alt text](image-url)
 
 ---
 
